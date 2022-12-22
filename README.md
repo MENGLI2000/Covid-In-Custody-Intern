@@ -1,4 +1,4 @@
-#Instruction on how to use data_transparency_analysis
+# Instruction on how to use data_transparency_analysis
 
 This file includes codes for data analysis on data-transparency reported to BSCC. There are three main parts: data pre-processing, data visualization and Urban & Rural Analysis
 
